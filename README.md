@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sagar Pokhriyal</h1>
 <h3 align="center">🚀 Passionate Backend Developer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarpokhriyal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
 ## 💫 About Me
 
-- 🔧 I love building fast, scalable REST APIs with **Node.js**, **Express.js**, and **MongoDB**
-- 🧠 Currently exploring advanced database design and **PostgreSQL** + **Prisma ORM**
+- 🔧 I love building fast, scalable REST APIs with **Node.js**, **Express.js**, and **MongoDB**, **Prisma**, **Postgresql**
+- 🧑‍💻 Built REst API Like **Expense Tracker API**, **Paytm Wallet Backend API**, **Youtube Backend API**
+- 🧠 Currently exploring advanced database design and **PostgreSQL** + **Prisma ORM** + **Redis** + **Docker**
 - 🐳 Docker enthusiast — containerize everything!
 - 🛠️ Tools I use daily: Postman, GitHub, CLI, Docker Hub
 

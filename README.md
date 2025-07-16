@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Pokhriyal</h1>
-<h3 align="center">🚀 Passionate Backend Developer | Node.js • Express.js • MongoDB • PostgreSQL</h3>
+<h3 align="center">🚀 Passionate Backend Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarpokhriyal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -37,24 +37,6 @@
 ![CLI](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpokhriyal&theme=radical" alt="streak stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarpokhriyal&show_icons=true&theme=radical" alt="stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpokhriyal&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarpokhriyal&theme=radical&column=4&no-frame=true" />
-</p>
 
 ---
 

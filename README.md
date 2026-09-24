@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🔧 I love building fast, scalable REST APIs with **Node.js**, **Express.js**, and **MongoDB**, **Prisma**, **Postgresql**
+- 🔧 I love building fast, scalable REST APIs with **Node.js**, **Express.js**, and **MongoDB**, **Prisma**, **PostgreSql**, **Python**, **FastAPI**, **SQLAlchemy**, **SQLite**
 - 🧑‍💻 Built REst API Like **Expense Tracker API**, **Paytm Wallet Backend API**, **Youtube Backend API**
 - 🧠 Currently exploring advanced database design and **PostgreSQL** + **Prisma ORM** + **Redis** + **Docker**
 - 🐳 Docker enthusiast — containerize everything!
